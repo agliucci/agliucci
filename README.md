@@ -3,7 +3,8 @@
 I am a sophomore at the **University of Massachusetts Amherst**, majoring in **Computer Science**. I'm passionate about **data engineering**, **functional programming**, and applying tech to solve real-world problems. I enjoy building cool stuff—from smart recommendation systems to backend tools—and learning something new every day.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/aliucci)
-[![Email](https://img.shields.io/badge/Gmail-white?style=for-the-badge&logo=gmail)](mailto:aliucci@umass.edu)
+[![Gmail](https://img.shields.io/badge/Gmail-white?style=for-the-badge&logo=gmail&logoColor=red)](mailto:aliucci@umass.edu)
+
 
 ---
 
