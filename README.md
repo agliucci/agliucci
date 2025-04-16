@@ -24,3 +24,6 @@ I am a sophomore at the **University of Massachusetts Amherst**, majoring in **C
 ---
 
 🧠 Always building. Always learning.
+
+
+![Alessandro's GitHub stats](https://github-readme-stats.vercel.app/api?username=agliucci&show_icons=true&theme=default)
