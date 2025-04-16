@@ -1,6 +1,6 @@
 # Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px">, I'm Alessandro Liucci
 
-I am a sophomore at the **University of Massachusetts Amherst**, majoring in **Computer Science**. I'm passionate about **data engineering**, **functional programming**, and applying tech to solve real-world problems. I enjoy building cool stuff—from smart recommendation systems to backend tools—and learning something new every day.
+I am a sophomore at the **University of Massachusetts Amherst**, majoring in **Computer Science**. I'm passionate about **data engineering**, **data science**, and applying tech to solve real-world problems. I enjoy building cool stuff—from smart recommendation systems to backend tools—and learning something new every day.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/aliucci)
 [![Gmail](https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:aliucci@umass.edu)
