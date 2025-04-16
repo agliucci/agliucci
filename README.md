@@ -1,4 +1,4 @@
-# Hi 👋, I'm Alessandro Liucci
+# Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px">, I'm Alessandro Liucci
 
 I am a sophomore at the **University of Massachusetts Amherst**, majoring in **Computer Science**. I'm passionate about **data engineering**, **functional programming**, and applying tech to solve real-world problems. I enjoy building cool stuff—from smart recommendation systems to backend tools—and learning something new every day.
 
